@@ -1,0 +1,20 @@
+{
+  "files": {
+    "city_temperature.csv": [
+      {
+        "id": "785c4dff-61de-4614-803e-7d49b01f625d",
+        "line": 1197503,
+        "version": 1,
+        "index": 49197932
+      }
+    ],
+    "main.py": [
+      {
+        "id": "0bbe9f9d-eea4-498f-a3b7-e182df7b6ea5",
+        "line": 1,
+        "version": 2103,
+        "index": 0
+      }
+    ]
+  }
+}
